@@ -1,4 +1,4 @@
-# TinyLLaMA Chatbot Agent
+# Bajau App Chatbot Agent
 
 This project demonstrates fine-tuning the open-source TinyLLaMA model to build a chatbot agent capable of handling instruction-style and procedural questions. As a case study, I use the “Bajau E-commerce App” scenario to illustrate how the agent responds to real-world queries.
 
@@ -90,8 +90,8 @@ Beyond numeric metrics, I conducted qualitative tests on:
 Download the model using this link: https://drive.google.com/file/d/1_9wCICmM8tUPe_wq-O8GUQC33IX7nHLy/view?usp=drive_link
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/tinyllama-chatbot.git
-cd tinyllama-chatbot
+git clone https://github.com/belgisanggita/bajau-app-chatbot.git
+cd bajau-app-chatbot
 
 # Install dependencies
 pip install -r requirements.txt

@@ -1,0 +1,746 @@
+[
+  {
+    "input": "How do I track my order in the Bajau E-Commerce mobile app?",
+    "output": "1. Open the Bajau app\n2. Tap “My Account”\n3. Tap “Order History”\n4. Select the order\n5. Tap “Track Order”\n6. View order status\n7. Contact support if needed"
+  },
+  {
+    "input": "What payment methods are accepted in the Bajau E-Commerce mobile app?",
+    "output": "1. Open the Bajau app\n2. Tap “My Account”\n3. Tap “Payment Methods”\n4. View accepted payment options\n5. Add new payment method if needed\n6. Select payment method for order\n7. Complete payment process"
+  },
+  {
+    "input": "How do I return a product in the Bajau E-Commerce mobile app?",
+    "output": "1. Open the Bajau app\n2. Tap “My Account”\n3. Tap “Order History”\n4. Select the order\n5. Tap “Return Item”\n6. Follow return instructions\n7. Wait for refund or replacement"
+  },
+  {
+    "input": "Can I cancel my order in the Bajau E-Commerce mobile app?",
+    "output": "1. Open the Bajau app\n2. Tap “My Account”\n3. Tap “Order History”\n4. Select the order\n5. Tap “Cancel Order”\n6. Confirm cancellation\n7. Wait for refund"
+  },
+  {
+    "input": "How do I use a promo code in the Bajau E-Commerce mobile app?",
+    "output": "1. Open the Bajau app\n2. Tap “My Account”\n3. Tap “Promo Codes”\n4. Enter promo code\n5. Tap “Apply”\n6. View discounted price\n7. Complete payment process"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's privacy policy?",
+    "output": "1. Open the Bajau app\n2. Tap “My Account”\n3. Tap “Settings”\n4. Tap “Privacy Policy”\n5. Read privacy policy\n6. Accept terms if needed\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I contact customer support in the Bajau E-Commerce mobile app?",
+    "output": "1. Open the Bajau app\n2. Tap “My Account”\n3. Tap “Support”\n4. Tap “Contact Us”\n5. Choose contact method\n6. Describe issue or question\n7. Wait for response"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app without an account?",
+    "output": "1. Open the Bajau app\n2. Tap “Guest Checkout”\n3. Enter shipping address\n4. Enter payment information\n5. Complete payment process\n6. Receive order confirmation\n7. Create account for future orders"
+  },
+  {
+    "input": "How do I reset my password in the Bajau E-Commerce mobile app?",
+    "output": "1. Open the Bajau app\n2. Tap “Forgot Password”\n3. Enter email address\n4. Tap “Submit”\n5. Check email for reset link\n6. Create new password\n7. Log in with new password"
+  },
+  {
+    "input": "What are the benefits of using the Bajau E-Commerce mobile app?",
+    "output": "1. Open the Bajau app\n2. Tap “My Account”\n3. Tap “App Benefits”\n4. View exclusive offers\n5. View loyalty program details\n6. View order history\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's search function?",
+    "output": "1. Open the Bajau app\n2. Tap “Search”\n3. Enter search term\n4. View search results\n5. Filter search results\n6. Select product to view details\n7. Add to cart or purchase"
+  },
+  {
+    "input": "Can I use multiple promo codes in the Bajau E-Commerce mobile app?",
+    "output": "1. Open the Bajau app\n2. Tap “My Account”\n3. Tap “Promo Codes”\n4. Enter first promo code\n5. Tap “Apply”\n6. Enter second promo code\n7. View combined discount"
+  },
+  {
+    "input": "How do I view my order history in the Bajau E-Commerce mobile app?",
+    "output": "1. Open the Bajau app\n2. Tap “My Account”\n3. Tap “Order History”\n4. View list of orders\n5. Select order to view details\n6. View order status\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's return policy?",
+    "output": "1. Open the Bajau app\n2. Tap “My Account”\n3. Tap “Return Policy”\n4. Read return policy\n5. Initiate return process\n6. Follow return instructions\n7. Wait for refund or replacement"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's wishlist feature?",
+    "output": "1. Open the Bajau app\n2. Tap “My Account”\n3. Tap “Wishlist”\n4. Add product to wishlist\n5. View wishlist\n6. Move product to cart\n7. Purchase product"
+  },
+  {
+    "input": "Can I purchase gift cards in the Bajau E-Commerce mobile app?",
+    "output": "1. Open the Bajau app\n2. Tap “Gift Cards”\n3. Select gift card type\n4. Enter gift card amount\n5. Purchase gift card\n6. View gift card details\n7. Send gift card to recipient"
+  },
+  {
+    "input": "How do I track my gift card balance in the Bajau E-Commerce mobile app?",
+    "output": "1. Open the Bajau app\n2. Tap “My Account”\n3. Tap “Gift Cards”\n4. Enter gift card number\n5. View gift card balance\n6. Use gift card for purchase\n7. Check gift card expiration date"
+  },
+  {
+    "input": "What are the benefits of using the Bajau E-Commerce mobile app's loyalty program?",
+    "output": "1. Open the Bajau app\n2. Tap “My Account”\n3. Tap “Loyalty Program”\n4. View loyalty program details\n5. Earn points for purchases\n6. Redeem points for rewards\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's product comparison feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Comparison”\n3. Select products to compare\n4. View comparison chart\n5. Select product to view details\n6. Add to cart or purchase\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I write a review for a product in the Bajau E-Commerce mobile app?",
+    "output": "1. Open the Bajau app\n2. Tap “My Account”\n3. Tap “Order History”\n4. Select order\n5. Tap “Write Review”\n6. Enter review details\n7. Submit review"
+  },
+  {
+    "input": "How do I view product reviews in the Bajau E-Commerce mobile app?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Details”\n3. Tap “Reviews”\n4. View list of reviews\n5. Filter reviews by rating\n6. Read review details\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's shipping policy?",
+    "output": "1. Open the Bajau app\n2. Tap “My Account”\n3. Tap “Shipping Policy”\n4. Read shipping policy\n5. View shipping options\n6. Select shipping method\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's barcode scanner?",
+    "output": "1. Open the Bajau app\n2. Tap “Barcode Scanner”\n3. Scan product barcode\n4. View product details\n5. Add to cart or purchase\n6. Contact support with questions\n7. View product reviews"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase digital products?",
+    "output": "1. Open the Bajau app\n2. Tap “Digital Products”\n3. Select digital product\n4. Purchase digital product\n5. View digital product details\n6. Download digital product\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's price match guarantee?",
+    "output": "1. Open the Bajau app\n2. Tap “Price Match Guarantee”\n3. Read price match policy\n4. Find lower price on competitor's website\n5. Submit price match request\n6. Wait for price match approval\n7. Receive price match refund"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's cancellation policy?",
+    "output": "1. Open the Bajau app\n2. Tap “My Account”\n3. Tap “Order History”\n4. Select order\n5. Tap “Cancel Order”\n6. Confirm cancellation\n7. Wait for refund"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's gift wrapping feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Gift Wrapping”\n3. Select gift wrapping option\n4. Enter gift message\n5. Purchase gift wrapping\n6. View gift wrapping details\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products in bulk?",
+    "output": "1. Open the Bajau app\n2. Tap “Bulk Purchases”\n3. Select products to purchase in bulk\n4. View bulk pricing\n5. Purchase products in bulk\n6. View order details\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's product recommendation feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Recommendations”\n3. View recommended products\n4. Select product to view details\n5. Add to cart or purchase\n6. Contact support with questions\n7. View product reviews"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's tax policy?",
+    "output": "1. Open the Bajau app\n2. Tap “My Account”\n3. Tap “Tax Policy”\n4. Read tax policy\n5. View tax rates\n6. Contact support with questions\n7. View order details"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's coupon feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Coupons”\n3. View available coupons\n4. Select coupon to view details\n5. Add to cart or purchase\n6. Contact support with questions\n7. View coupon expiration date"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products from multiple sellers?",
+    "output": "1. Open the Bajau app\n2. Tap “Multi-Seller Purchases”\n3. Select products from multiple sellers\n4. View seller information\n5. Purchase products from multiple sellers\n6. View order details\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's order tracking feature?",
+    "output": "1. Open the Bajau app\n2. Tap “My Account”\n3. Tap “Order History”\n4. Select order\n5. Tap “Track Order”\n6. View order status\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's payment processing policy?",
+    "output": "1. Open the Bajau app\n2. Tap “My Account”\n3. Tap “Payment Processing Policy”\n4. Read payment processing policy\n5. View payment options\n6. Contact support with questions\n7. View order details"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's product reviews and ratings feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Reviews and Ratings”\n3. View product reviews and ratings\n4. Select product to view details\n5. Add to cart or purchase\n6. Contact support with questions\n7. View product reviews and ratings"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a price match guarantee?",
+    "output": "1. Open the Bajau app\n2. Tap “Price Match Guarantee”\n3. Read price match policy\n4. Find lower price on competitor's website\n5. Submit price match request\n6. Wait for price match approval\n7. Receive price match refund"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's digital wallet feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Digital Wallet”\n3. Set up digital wallet\n4. Add payment method\n5. Make purchase using digital wallet\n6. View digital wallet details\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's refund policy?",
+    "output": "1. Open the Bajau app\n2. Tap “My Account”\n3. Tap “Refund Policy”\n4. Read refund policy\n5. Initiate refund process\n6. Wait for refund\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's chat support feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Chat Support”\n3. Start chat with support agent\n4. Describe issue or question\n5. Wait for response\n6. Resolve issue or question\n7. End chat"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a loyalty program discount?",
+    "output": "1. Open the Bajau app\n2. Tap “Loyalty Program”\n3. View loyalty program details\n4. Earn points for purchases\n5. Redeem points for rewards\n6. Make purchase using loyalty program discount\n7. View order details"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's voice search feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Voice Search”\n3. Speak search term\n4. View search results\n5. Select product to view details\n6. Add to cart or purchase\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's accessibility policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Accessibility Policy”\n3. Read accessibility policy\n4. View accessibility features\n5. Contact support with questions\n6. Provide feedback on accessibility\n7. View order details"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's augmented reality feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Augmented Reality”\n3. View augmented reality experience\n4. Select product to view details\n5. Add to cart or purchase\n6. Contact support with questions\n7. View product reviews"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a student discount?",
+    "output": "1. Open the Bajau app\n2. Tap “Student Discount”\n3. View student discount details\n4. Verify student status\n5. Make purchase using student discount\n6. View order details\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's price drop alert feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Price Drop Alert”\n3. Set up price drop alert\n4. Select product to track\n5. Receive price drop notification\n6. Make purchase at lower price\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's data protection policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Data Protection Policy”\n3. Read data protection policy\n4. View data protection features\n5. Contact support with questions\n6. Provide feedback on data protection\n7. View order details"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's social media sharing feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Social Media Sharing”\n3. Select product to share\n4. Share product on social media\n5. View social media sharing options\n6. Contact support with questions\n7. View product reviews"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a military discount?",
+    "output": "1. Open the Bajau app\n2. Tap “Military Discount”\n3. View military discount details\n4. Verify military status\n5. Make purchase using military discount\n6. View order details\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's product customization feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Customization”\n3. Select product to customize\n4. View customization options\n5. Make customization selections\n6. Add to cart or purchase\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's gift card policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Gift Card Policy”\n3. Read gift card policy\n4. View gift card options\n5. Purchase gift card\n6. View gift card details\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's live streaming feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Live Streaming”\n3. View live streaming options\n4. Select live stream to view\n5. Participate in live stream\n6. Contact support with questions\n7. View product reviews"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a senior discount?",
+    "output": "1. Open the Bajau app\n2. Tap “Senior Discount”\n3. View senior discount details\n4. Verify senior status\n5. Make purchase using senior discount\n6. View order details\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's product demonstration feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Demonstration”\n3. View product demonstration options\n4. Select product to demonstrate\n5. View product demonstration\n6. Add to cart or purchase\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's customer review policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Customer Review Policy”\n3. Read customer review policy\n4. View customer review options\n5. Write customer review\n6. View customer review details\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's virtual try-on feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Virtual Try-On”\n3. View virtual try-on options\n4. Select product to try on\n5. Use virtual try-on feature\n6. Add to cart or purchase\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a price guarantee?",
+    "output": "1. Open the Bajau app\n2. Tap “Price Guarantee”\n3. View price guarantee details\n4. Make purchase with price guarantee\n5. View order details\n6. Contact support with questions\n7. View product reviews"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's shopping list feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Shopping List”\n3. View shopping list options\n4. Add products to shopping list\n5. View shopping list details\n6. Add to cart or purchase\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's sales tax policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Sales Tax Policy”\n3. Read sales tax policy\n4. View sales tax rates\n5. Contact support with questions\n6. View order details\n7. Provide feedback on sales tax policy"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's deal of the day feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Deal of the Day”\n3. View deal of the day options\n4. Select deal to view details\n5. Add to cart or purchase\n6. Contact support with questions\n7. View product reviews"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a free trial?",
+    "output": "1. Open the Bajau app\n2. Tap “Free Trial”\n3. View free trial details\n4. Select product to try\n5. Start free trial\n6. Add to cart or purchase\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's bundle and save feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Bundle and Save”\n3. View bundle and save options\n4. Select products to bundle\n5. View bundle details\n6. Add to cart or purchase\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's exchange policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Exchange Policy”\n3. Read exchange policy\n4. View exchange options\n5. Initiate exchange process\n6. Wait for exchange\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's buy now pay later feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Buy Now Pay Later”\n3. View buy now pay later details\n4. Select product to purchase\n5. Apply for buy now pay later\n6. Make payments\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a financing option?",
+    "output": "1. Open the Bajau app\n2. Tap “Financing Option”\n3. View financing option details\n4. Select product to purchase\n5. Apply for financing\n6. Make payments\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's price adjustment feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Price Adjustment”\n3. View price adjustment details\n4. Select product to adjust price\n5. Request price adjustment\n6. Wait for price adjustment\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's return and exchange policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Return and Exchange Policy”\n3. Read return and exchange policy\n4. View return and exchange options\n5. Initiate return or exchange process\n6. Wait for return or exchange\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's in-store pickup feature?",
+    "output": "1. Open the Bajau app\n2. Tap “In-Store Pickup”\n3. View in-store pickup options\n4. Select product to pick up in-store\n5. Select store for pickup\n6. Wait for pickup confirmation\n7. Pick up order in-store"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a subscription?",
+    "output": "1. Open the Bajau app\n2. Tap “Subscription”\n3. View subscription details\n4. Select product to subscribe\n5. Apply for subscription\n6. Make payments\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's gift registry feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Gift Registry”\n3. View gift registry options\n4. Create gift registry\n5. Add products to registry\n6. Share registry with others\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's product availability policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Availability Policy”\n3. Read product availability policy\n4. View product availability options\n5. Check product availability\n6. Contact support with questions\n7. View order details"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's backorder feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Backorder”\n3. View backorder options\n4. Select product to backorder\n5. Wait for backorder confirmation\n6. Receive backorder update\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a pre-order?",
+    "output": "1. Open the Bajau app\n2. Tap “Pre-Order”\n3. View pre-order details\n4. Select product to pre-order\n5. Make pre-order payment\n6. Wait for pre-order confirmation\n7. Receive pre-order update"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's product recommendation feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Recommendation”\n3. View product recommendation options\n4. Select product to view details\n5. Add to cart or purchase\n6. Contact support with questions\n7. View product reviews"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's customer service policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Customer Service Policy”\n3. Read customer service policy\n4. View customer service options\n5. Contact customer service\n6. Wait for response\n7. Resolve issue or question"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's order status feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Order Status”\n3. View order status options\n4. Select order to view details\n5. View order status update\n6. Contact support with questions\n7. View order history"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a discount code?",
+    "output": "1. Open the Bajau app\n2. Tap “Discount Code”\n3. View discount code details\n4. Select product to apply discount code\n5. Apply discount code\n6. View discounted price\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's product comparison chart feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Comparison Chart”\n3. View product comparison chart options\n4. Select products to compare\n5. View comparison chart\n6. Select product to view details\n7. Add to cart or purchase"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's payment security policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Payment Security Policy”\n3. Read payment security policy\n4. View payment security options\n5. Contact support with questions\n6. View order details\n7. Provide feedback on payment security policy"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's wish list feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Wish List”\n3. View wish list options\n4. Add products to wish list\n5. View wish list details\n6. Add to cart or purchase\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a gift message?",
+    "output": "1. Open the Bajau app\n2. Tap “Gift Message”\n3. View gift message details\n4. Select product to add gift message\n5. Enter gift message\n6. Add to cart or purchase\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's order tracking feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Order Tracking”\n3. View order tracking options\n4. Select order to track\n5. View order status update\n6. Contact support with questions\n7. View order history"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's shipping carrier policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Shipping Carrier Policy”\n3. Read shipping carrier policy\n4. View shipping carrier options\n5. Contact support with questions\n6. View order details\n7. Provide feedback on shipping carrier policy"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's product review and rating feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Review and Rating”\n3. View product review and rating options\n4. Select product to review\n5. Enter review and rating\n6. Submit review and rating\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a price match guarantee?",
+    "output": "1. Open the Bajau app\n2. Tap “Price Match Guarantee”\n3. View price match guarantee details\n4. Select product to price match\n5. Request price match\n6. Wait for price match approval\n7. Receive price match refund"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's digital wallet feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Digital Wallet”\n3. View digital wallet options\n4. Add payment method to digital wallet\n5. Make purchase using digital wallet\n6. View digital wallet details\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's customer loyalty program policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Customer Loyalty Program Policy”\n3. Read customer loyalty program policy\n4. View customer loyalty program options\n5. Contact support with questions\n6. View order details\n7. Provide feedback on customer loyalty program policy"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's social media sharing feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Social Media Sharing”\n3. View social media sharing options\n4. Select product to share\n5. Share product on social media\n6. View social media sharing details\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a financing option?",
+    "output": "1. Open the Bajau app\n2. Tap “Financing Option”\n3. View financing option details\n4. Select product to finance\n5. Apply for financing\n6. Make payments\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's price adjustment feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Price Adjustment”\n3. View price adjustment details\n4. Select product to adjust price\n5. Request price adjustment\n6. Wait for price adjustment\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's return and exchange policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Return and Exchange Policy”\n3. Read return and exchange policy\n4. View return and exchange options\n5. Initiate return or exchange process\n6. Wait for return or exchange\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's in-store pickup feature?",
+    "output": "1. Open the Bajau app\n2. Tap “In-Store Pickup”\n3. View in-store pickup options\n4. Select product to pick up in-store\n5. Select store for pickup\n6. Wait for pickup confirmation\n7. Pick up order in-store"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a subscription?",
+    "output": "1. Open the Bajau app\n2. Tap “Subscription”\n3. View subscription details\n4. Select product to subscribe\n5. Apply for subscription\n6. Make payments\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's gift registry feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Gift Registry”\n3. View gift registry options\n4. Create gift registry\n5. Add products to registry\n6. Share registry with others\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's product availability policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Availability Policy”\n3. Read product availability policy\n4. View product availability options\n5. Check product availability\n6. Contact support with questions\n7. View order details"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's backorder feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Backorder”\n3. View backorder options\n4. Select product to backorder\n5. Wait for backorder confirmation\n6. Receive backorder update\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a pre-order?",
+    "output": "1. Open the Bajau app\n2. Tap “Pre-Order”\n3. View pre-order details\n4. Select product to pre-order\n5. Make pre-order payment\n6. Wait for pre-order confirmation\n7. Receive pre-order update"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's product recommendation feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Recommendation”\n3. View product recommendation options\n4. Select product to view details\n5. Add to cart or purchase\n6. Contact support with questions\n7. View product reviews"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's customer service policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Customer Service Policy”\n3. Read customer service policy\n4. View customer service options\n5. Contact customer service\n6. Wait for response\n7. Resolve issue or question"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's order status feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Order Status”\n3. View order status options\n4. Select order to view details\n5. View order status update\n6. Contact support with questions\n7. View order history"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a discount code?",
+    "output": "1. Open the Bajau app\n2. Tap “Discount Code”\n3. View discount code details\n4. Select product to apply discount code\n5. Apply discount code\n6. View discounted price\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's product comparison chart feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Comparison Chart”\n3. View product comparison chart options\n4. Select products to compare\n5. View comparison chart\n6. Select product to view details\n7. Add to cart or purchase"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's payment security policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Payment Security Policy”\n3. Read payment security policy\n4. View payment security options\n5. Contact support with questions\n6. View order details\n7. Provide feedback on payment security policy"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's wish list feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Wish List”\n3. View wish list options\n4. Add products to wish list\n5. View wish list details\n6. Add to cart or purchase\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a gift message?",
+    "output": "1. Open the Bajau app\n2. Tap “Gift Message”\n3. View gift message details\n4. Select product to add gift message\n5. Enter gift message\n6. Add to cart or purchase\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's order tracking feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Order Tracking”\n3. View order tracking options\n4. Select order to track\n5. View order status update\n6. Contact support with questions\n7. View order history"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's shipping carrier policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Shipping Carrier Policy”\n3. Read shipping carrier policy\n4. View shipping carrier options\n5. Contact support with questions\n6. View order details\n7. Provide feedback on shipping carrier policy"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's product review and rating feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Review and Rating”\n3. View product review and rating options\n4. Select product to review\n5. Enter review and rating\n6. Submit review and rating\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a price match guarantee?",
+    "output": "1. Open the Bajau app\n2. Tap “Price Match Guarantee”\n3. View price match guarantee details\n4. Select product to price match\n5. Request price match\n6. Wait for price match approval\n7. Receive price match refund"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's digital wallet feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Digital Wallet”\n3. View digital wallet options\n4. Add payment method to digital wallet\n5. Make purchase using digital wallet\n6. View digital wallet details\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's customer loyalty program policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Customer Loyalty Program Policy”\n3. Read customer loyalty program policy\n4. View customer loyalty program options\n5. Contact support with questions\n6. View order details\n7. Provide feedback on customer loyalty program policy"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's social media sharing feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Social Media Sharing”\n3. View social media sharing options\n4. Select product to share\n5. Share product on social media\n6. View social media sharing details\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a financing option?",
+    "output": "1. Open the Bajau app\n2. Tap “Financing Option”\n3. View financing option details\n4. Select product to finance\n5. Apply for financing\n6. Make payments\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's price adjustment feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Price Adjustment”\n3. View price adjustment details\n4. Select product to adjust price\n5. Request price adjustment\n6. Wait for price adjustment\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's return and exchange policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Return and Exchange Policy”\n3. Read return and exchange policy\n4. View return and exchange options\n5. Initiate return or exchange process\n6. Wait for return or exchange\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's in-store pickup feature?",
+    "output": "1. Open the Bajau app\n2. Tap “In-Store Pickup”\n3. View in-store pickup options\n4. Select product to pick up in-store\n5. Select store for pickup\n6. Wait for pickup confirmation\n7. Pick up order in-store"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a subscription?",
+    "output": "1. Open the Bajau app\n2. Tap “Subscription”\n3. View subscription details\n4. Select product to subscribe\n5. Apply for subscription\n6. Make payments\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's gift registry feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Gift Registry”\n3. View gift registry options\n4. Create gift registry\n5. Add products to registry\n6. Share registry with others\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's product availability policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Availability Policy”\n3. Read product availability policy\n4. View product availability options\n5. Check product availability\n6. Contact support with questions\n7. View order details"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's backorder feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Backorder”\n3. View backorder options\n4. Select product to backorder\n5. Wait for backorder confirmation\n6. Receive backorder update\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a pre-order?",
+    "output": "1. Open the Bajau app\n2. Tap “Pre-Order”\n3. View pre-order details\n4. Select product to pre-order\n5. Make pre-order payment\n6. Wait for pre-order confirmation\n7. Receive pre-order update"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's product recommendation feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Recommendation”\n3. View product recommendation options\n4. Select product to view details\n5. Add to cart or purchase\n6. Contact support with questions\n7. View product reviews"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's customer service policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Customer Service Policy”\n3. Read customer service policy\n4. View customer service options\n5. Contact customer service\n6. Wait for response\n7. Resolve issue or question"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's order status feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Order Status”\n3. View order status options\n4. Select order to view details\n5. View order status update\n6. Contact support with questions\n7. View order history"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a discount code?",
+    "output": "1. Open the Bajau app\n2. Tap “Discount Code”\n3. View discount code details\n4. Select product to apply discount code\n5. Apply discount code\n6. View discounted price\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's product comparison chart feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Comparison Chart”\n3. View product comparison chart options\n4. Select products to compare\n5. View comparison chart\n6. Select product to view details\n7. Add to cart or purchase"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's payment security policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Payment Security Policy”\n3. Read payment security policy\n4. View payment security options\n5. Contact support with questions\n6. View order details\n7. Provide feedback on payment security policy"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's wish list feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Wish List”\n3. View wish list options\n4. Add products to wish list\n5. View wish list details\n6. Add to cart or purchase\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a gift message?",
+    "output": "1. Open the Bajau app\n2. Tap “Gift Message”\n3. View gift message details\n4. Select product to add gift message\n5. Enter gift message\n6. Add to cart or purchase\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's order tracking feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Order Tracking”\n3. View order tracking options\n4. Select order to track\n5. View order status update\n6. Contact support with questions\n7. View order history"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's shipping carrier policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Shipping Carrier Policy”\n3. Read shipping carrier policy\n4. View shipping carrier options\n5. Contact support with questions\n6. View order details\n7. Provide feedback on shipping carrier policy"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's product review and rating feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Review and Rating”\n3. View product review and rating options\n4. Select product to review\n5. Enter review and rating\n6. Submit review and rating\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a price match guarantee?",
+    "output": "1. Open the Bajau app\n2. Tap “Price Match Guarantee”\n3. View price match guarantee details\n4. Select product to price match\n5. Request price match\n6. Wait for price match approval\n7. Receive price match refund"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's digital wallet feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Digital Wallet”\n3. View digital wallet options\n4. Add payment method to digital wallet\n5. Make purchase using digital wallet\n6. View digital wallet details\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's customer loyalty program policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Customer Loyalty Program Policy”\n3. Read customer loyalty program policy\n4. View customer loyalty program options\n5. Contact support with questions\n6. View order details\n7. Provide feedback on customer loyalty program policy"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's social media sharing feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Social Media Sharing”\n3. View social media sharing options\n4. Select product to share\n5. Share product on social media\n6. View social media sharing details\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a financing option?",
+    "output": "1. Open the Bajau app\n2. Tap “Financing Option”\n3. View financing option details\n4. Select product to finance\n5. Apply for financing\n6. Make payments\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's price adjustment feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Price Adjustment”\n3. View price adjustment details\n4. Select product to adjust price\n5. Request price adjustment\n6. Wait for price adjustment\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's return and exchange policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Return and Exchange Policy”\n3. Read return and exchange policy\n4. View return and exchange options\n5. Initiate return or exchange process\n6. Wait for return or exchange\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's in-store pickup feature?",
+    "output": "1. Open the Bajau app\n2. Tap “In-Store Pickup”\n3. View in-store pickup options\n4. Select product to pick up in-store\n5. Select store for pickup\n6. Wait for pickup confirmation\n7. Pick up order in-store"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a subscription?",
+    "output": "1. Open the Bajau app\n2. Tap “Subscription”\n3. View subscription details\n4. Select product to subscribe\n5. Apply for subscription\n6. Make payments\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's gift registry feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Gift Registry”\n3. View gift registry options\n4. Create gift registry\n5. Add products to registry\n6. Share registry with others\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's product availability policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Availability Policy”\n3. Read product availability policy\n4. View product availability options\n5. Check product availability\n6. Contact support with questions\n7. View order details"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's backorder feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Backorder”\n3. View backorder options\n4. Select product to backorder\n5. Wait for backorder confirmation\n6. Receive backorder update\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a pre-order?",
+    "output": "1. Open the Bajau app\n2. Tap “Pre-Order”\n3. View pre-order details\n4. Select product to pre-order\n5. Make pre-order payment\n6. Wait for pre-order confirmation\n7. Receive pre-order update"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's product recommendation feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Recommendation”\n3. View product recommendation options\n4. Select product to view details\n5. Add to cart or purchase\n6. Contact support with questions\n7. View product reviews"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's customer service policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Customer Service Policy”\n3. Read customer service policy\n4. View customer service options\n5. Contact customer service\n6. Wait for response\n7. Resolve issue or question"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's order status feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Order Status”\n3. View order status options\n4. Select order to view details\n5. View order status update\n6. Contact support with questions\n7. View order history"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a discount code?",
+    "output": "1. Open the Bajau app\n2. Tap “Discount Code”\n3. View discount code details\n4. Select product to apply discount code\n5. Apply discount code\n6. View discounted price\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's product comparison chart feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Comparison Chart”\n3. View product comparison chart options\n4. Select products to compare\n5. View comparison chart\n6. Select product to view details\n7. Add to cart or purchase"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's payment security policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Payment Security Policy”\n3. Read payment security policy\n4. View payment security options\n5. Contact support with questions\n6. View order details\n7. Provide feedback on payment security policy"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's wish list feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Wish List”\n3. View wish list options\n4. Add products to wish list\n5. View wish list details\n6. Add to cart or purchase\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a gift message?",
+    "output": "1. Open the Bajau app\n2. Tap “Gift Message”\n3. View gift message details\n4. Select product to add gift message\n5. Enter gift message\n6. Add to cart or purchase\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's order tracking feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Order Tracking”\n3. View order tracking options\n4. Select order to track\n5. View order status update\n6. Contact support with questions\n7. View order history"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's shipping carrier policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Shipping Carrier Policy”\n3. Read shipping carrier policy\n4. View shipping carrier options\n5. Contact support with questions\n6. View order details\n7. Provide feedback on shipping carrier policy"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's product review and rating feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Review and Rating”\n3. View product review and rating options\n4. Select product to review\n5. Enter review and rating\n6. Submit review and rating\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a price match guarantee?",
+    "output": "1. Open the Bajau app\n2. Tap “Price Match Guarantee”\n3. View price match guarantee details\n4. Select product to price match\n5. Request price match\n6. Wait for price match approval\n7. Receive price match refund"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's digital wallet feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Digital Wallet”\n3. View digital wallet options\n4. Add payment method to digital wallet\n5. Make purchase using digital wallet\n6. View digital wallet details\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's customer loyalty program policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Customer Loyalty Program Policy”\n3. Read customer loyalty program policy\n4. View customer loyalty program options\n5. Contact support with questions\n6. View order details\n7. Provide feedback on customer loyalty program policy"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's social media sharing feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Social Media Sharing”\n3. View social media sharing options\n4. Select product to share\n5. Share product on social media\n6. View social media sharing details\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a financing option?",
+    "output": "1. Open the Bajau app\n2. Tap “Financing Option”\n3. View financing option details\n4. Select product to finance\n5. Apply for financing\n6. Make payments\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's price adjustment feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Price Adjustment”\n3. View price adjustment details\n4. Select product to adjust price\n5. Request price adjustment\n6. Wait for price adjustment\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's return and exchange policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Return and Exchange Policy”\n3. Read return and exchange policy\n4. View return and exchange options\n5. Initiate return or exchange process\n6. Wait for return or exchange\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's in-store pickup feature?",
+    "output": "1. Open the Bajau app\n2. Tap “In-Store Pickup”\n3. View in-store pickup options\n4. Select product to pick up in-store\n5. Select store for pickup\n6. Wait for pickup confirmation\n7. Pick up order in-store"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a subscription?",
+    "output": "1. Open the Bajau app\n2. Tap “Subscription”\n3. View subscription details\n4. Select product to subscribe\n5. Apply for subscription\n6. Make payments\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's gift registry feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Gift Registry”\n3. View gift registry options\n4. Create gift registry\n5. Add products to registry\n6. Share registry with others\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's product availability policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Availability Policy”\n3. Read product availability policy\n4. View product availability options\n5. Check product availability\n6. Contact support with questions\n7. View order details"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's backorder feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Backorder”\n3. View backorder options\n4. Select product to backorder\n5. Wait for backorder confirmation\n6. Receive backorder update\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a pre-order?",
+    "output": "1. Open the Bajau app\n2. Tap “Pre-Order”\n3. View pre-order details\n4. Select product to pre-order\n5. Make pre-order payment\n6. Wait for pre-order confirmation\n7. Receive pre-order update"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's product recommendation feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Recommendation”\n3. View product recommendation options\n4. Select product to view details\n5. Add to cart or purchase\n6. Contact support with questions\n7. View product reviews"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's customer service policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Customer Service Policy”\n3. Read customer service policy\n4. View customer service options\n5. Contact customer service\n6. Wait for response\n7. Resolve issue or question"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's order status feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Order Status”\n3. View order status options\n4. Select order to view details\n5. View order status update\n6. Contact support with questions\n7. View order history"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a discount code?",
+    "output": "1. Open the Bajau app\n2. Tap “Discount Code”\n3. View discount code details\n4. Select product to apply discount code\n5. Apply discount code\n6. View discounted price\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's product comparison chart feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Comparison Chart”\n3. View product comparison chart options\n4. Select products to compare\n5. View comparison chart\n6. Select product to view details\n7. Add to cart or purchase"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's payment security policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Payment Security Policy”\n3. Read payment security policy\n4. View payment security options\n5. Contact support with questions\n6. View order details\n7. Provide feedback on payment security policy"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's wish list feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Wish List”\n3. View wish list options\n4. Add products to wish list\n5. View wish list details\n6. Add to cart or purchase\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a gift message?",
+    "output": "1. Open the Bajau app\n2. Tap “Gift Message”\n3. View gift message details\n4. Select product to add gift message\n5. Enter gift message\n6. Add to cart or purchase\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's order tracking feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Order Tracking”\n3. View order tracking options\n4. Select order to track\n5. View order status update\n6. Contact support with questions\n7. View order history"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's shipping carrier policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Shipping Carrier Policy”\n3. Read shipping carrier policy\n4. View shipping carrier options\n5. Contact support with questions\n6. View order details\n7. Provide feedback on shipping carrier policy"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's product review and rating feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Product Review and Rating”\n3. View product review and rating options\n4. Select product to review\n5. Enter review and rating\n6. Submit review and rating\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a price match guarantee?",
+    "output": "1. Open the Bajau app\n2. Tap “Price Match Guarantee”\n3. View price match guarantee details\n4. Select product to price match\n5. Request price match\n6. Wait for price match approval\n7. Receive price match refund"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's digital wallet feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Digital Wallet”\n3. View digital wallet options\n4. Add payment method to digital wallet\n5. Make purchase using digital wallet\n6. View digital wallet details\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's customer loyalty program policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Customer Loyalty Program Policy”\n3. Read customer loyalty program policy\n4. View customer loyalty program options\n5. Contact support with questions\n6. View order details\n7. Provide feedback on customer loyalty program policy"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's social media sharing feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Social Media Sharing”\n3. View social media sharing options\n4. Select product to share\n5. Share product on social media\n6. View social media sharing details\n7. Contact support with questions"
+  },
+  {
+    "input": "Can I use the Bajau E-Commerce mobile app to purchase products with a financing option?",
+    "output": "1. Open the Bajau app\n2. Tap “Financing Option”\n3. View financing option details\n4. Select product to finance\n5. Apply for financing\n6. Make payments\n7. Contact support with questions"
+  },
+  {
+    "input": "How do I use the Bajau E-Commerce mobile app's price adjustment feature?",
+    "output": "1. Open the Bajau app\n2. Tap “Price Adjustment”\n3. View price adjustment details\n4. Select product to adjust price\n5. Request price adjustment\n6. Wait for price adjustment\n7. Contact support with questions"
+  },
+  {
+    "input": "What is the Bajau E-Commerce mobile app's return and exchange policy?",
+    "output": "1. Open the Bajau app\n2. Tap “Return and Exchange Policy”\n3. Read return and exchange policy\n4. View return and exchange options\n5. Initiate return or exchange process\n6. Wait for return or exchange\n7. Contact support with questions"
+  }
+]

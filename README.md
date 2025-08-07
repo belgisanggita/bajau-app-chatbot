@@ -99,6 +99,20 @@ pip install -r requirements.txt
 # Start the API server
 python app.py
 ```
+## 📁 Directory Structure of the APP BAJAU project.
+
+```
+
+APP BAJAU/
+├── README.md        
+└── src/
+    └── final-model-merged/     
+    └── app.py                    
+    └── dataset.json              
+    └── finetuning.ipynb
+    └── requirements.txt 
+
+````
 
 Once the server is running, you can send POST requests to the `/ask` endpoint.
 For example, using [Postman](https://www.postman.com/) or `curl`:

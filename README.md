@@ -103,7 +103,7 @@ python app.py
 
 ```
 
-APP BAJAU/
+bajau-app-chatbot/
 ├── README.md        
 └── src/
     └── final-model-merged/     
